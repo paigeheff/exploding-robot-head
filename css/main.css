@@ -27,10 +27,15 @@ body {
 
 .robot-brain {
   width: 46px;
+  z-index: 2;
+  transform: translateX(275%);
+  left: -275%;
 }
 
 .robot-head-right,
 .robot-head-left {
   width: 125px;
+  position: absolute;
+
 
 }
