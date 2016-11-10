@@ -38,4 +38,6 @@ body {
   width: 125px;
   position: absolute;
   z-index: 3;
+  left: 20%;
+  transform: translateX(-20%);
 }
