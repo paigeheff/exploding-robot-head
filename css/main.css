@@ -23,6 +23,7 @@ body {
 
 .robot-body {
   width: 320px;
+  z-index: 1;
 }
 
 .robot-brain {
@@ -36,6 +37,5 @@ body {
 .robot-head-left {
   width: 125px;
   position: absolute;
-
-
+  z-index: 3;
 }
