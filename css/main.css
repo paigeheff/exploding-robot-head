@@ -29,8 +29,9 @@ body {
 .robot-brain {
   width: 46px;
   z-index: 2;
-  transform: translateX(275%);
-  left: -275%;
+  transform: translateX(-5%);
+  left: 5%
+  position: relative;
 }
 
 .robot-head-right,
